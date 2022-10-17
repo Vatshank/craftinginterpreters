@@ -1,7 +1,4 @@
-//
-// Created by Chaturvedi, Vatshank on 10/16/22.
-//
-
+//> Chunks of Bytecode debug-h
 #ifndef clox_debug_h
 #define clox_debug_h
 
